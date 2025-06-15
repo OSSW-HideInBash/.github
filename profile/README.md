@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/fbe1aff8-ce7a-4cdd-9179-d4b1fcba3bd8" alt="투두두두 로고" width="200"/>
 
 
-**지루한 할 일 관리를, 살아 움직이는 몬스터와 함께!**
+**지루한 할 일 관리를, 살아 움직이는 몬스터와 함께!** <br>
 투두두두는 애니메이션과 레벨 시스템이 결합된 게이미피케이션 기반 할 일 관리 앱입니다.
 
 ---
@@ -30,6 +30,7 @@
 | **백엔드** | Flask (Python) |
 | **애니메이션 엔진** | Meta의 AnimatedDrawings 오픈소스 |
 | **데이터베이스** | Android room db |
+| **서버 배포 도구** | AWS EC2 |
 | **협업 도구** | GitHub, Figma, Notion |
 
 ---
