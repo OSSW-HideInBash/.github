@@ -1,6 +1,7 @@
 # 📝 투두두두 - 살아 숨 쉬는 스케줄러
 
-<img src="https://github.com/user-attachments/assets/fbe1aff8-ce7a-4cdd-9179-d4b1fcba3bd8" alt="투두두두 로고" width="200"/>
+![image](https://github.com/user-attachments/assets/1c111391-fd80-475f-94a7-ea8f0c95a5f5)
+
 
 
 **지루한 할 일 관리를, 살아 움직이는 몬스터와 함께!** <br>
