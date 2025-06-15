@@ -81,7 +81,7 @@
 
 
 📖 더욱 자세한 앱 사용법과 기능 설명은  
-[GitHub Wiki](https://github.com/OSSW-HideInBash/wiki)에서 확인할 수 있습니다.
+[GitHub Wiki](https://github.com/OSSW-HideInBash/.github/wiki)에서 확인할 수 있습니다.
 
 ---
 ## 📁 주요 레포지토리
