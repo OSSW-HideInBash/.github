@@ -19,12 +19,12 @@
 - **Android**: Kotlin 코드 → [Kotlin 공식 스타일 가이드](https://developer.android.com/kotlin/style-guide)
 - **Flask 서버**: PEP8 스타일
 - **커밋 메시지 규칙 (Prefix 권장)**:
-  - `feat`: 새로운 기능
-  - `fix`: 버그 수정
-  - `docs`: 문서 작성/수정
-  - `refactor`: 리팩토링
+  - `Feat`: 새로운 기능
+  - `Fix`: 버그 수정
+  - `Docs`: 문서 작성/수정
+  - `Refactor`: 리팩토링
 
-예: `[feat] 퀘스트 완료 시 애니메이션 연동 추가`
+예: `[Feat] 퀘스트 완료 시 애니메이션 연동 추가`
 
 ---
 
