@@ -1,6 +1,6 @@
 # 📝 투두두두 - 살아 숨 쉬는 스케줄러
 
-![image](https://github.com/user-attachments/assets/1c111391-fd80-475f-94a7-ea8f0c95a5f5)
+<img src="https://github.com/user-attachments/assets/1c111391-fd80-475f-94a7-ea8f0c95a5f5" alt="홈 화면" width="300"/>
 
 
 
