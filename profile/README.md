@@ -73,6 +73,19 @@
 
 ---
 
+## 🤝 Contributing Guide
+
+이 프로젝트에 기여하고 싶다면 언제든지 환영합니다!
+
+1. 이슈를 통해 버그, 기능 제안, 아이디어를 자유롭게 남겨주세요.
+2. 기능 추가나 수정은 `dev` 브랜치를 기반으로 `feature/*` 또는 `fix/*` 브랜치를 생성해주세요.
+3. [CONTRIBUTING.md](https://github.com/OSSW-HideInBash/.github/blob/main/CONTRIBUTING.md)를 참고하여 코드 스타일 및 커밋 메시지 규칙을 지켜주세요.
+4. PR(Pull Request)은 **`dev` 브랜치로** 생성하고, 자세한 설명을 포함해주세요.
+
+> 🔗 자세한 기여 가이드는 [CONTRIBUTING.md 전체 보기](https://github.com/OSSW-HideInBash/.github/blob/main/CONTRIBUTING.md)
+
+---
+
 ## 🙏 Special Thanks
 
 - [Meta AI - AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)  
