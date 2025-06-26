@@ -121,5 +121,14 @@
   본 프로젝트의 애니메이션은 Meta AI의 오픈소스를 기반으로 구현되었습니다.
 
 ---
+###Contributors
+
+-kyb5272 (권용빈) https://github.com/kyb5272
+
+-riadan710(이우진) https://github.com/riadan710
+
+-davidjk522(김재경) https://github.com/davidjk522
+
+-wslee670(이우신) https://github.com/wslee6704
 
 **Team OSSW-HideInBash**
