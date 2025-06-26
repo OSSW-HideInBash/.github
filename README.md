@@ -122,9 +122,12 @@
 
 ---
 ### Contributors
--kyb5272 (권용빈)
--riadan710(이우진)
--davidjk522(김재경)
--wslee670(이우신)
+-kyb5272 (권용빈) https://github.com/kyb5272
 
+-riadan710(이우진) https://github.com/riadan710
+
+-davidjk522(김재경) https://github.com/davidjk522
+
+-wslee670(이우신) https://github.com/wslee6704
+---
 **Team OSSW-HideInBash**
